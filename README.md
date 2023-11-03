@@ -1,5 +1,5 @@
 # Meedo
-## The repository contains Klipper config files that I have running on my heavily modified Weedo x40 IDEX 3D printer.
+## This repository contains Klipper config files that I have running on my heavily modified Weedo x40 IDEX 3D printer.
 ### *Note: I do not yet have the second hotend working. Once I get it working, I will update everything, but I do not know when that will be, as I am happy with the printer as it is right now and have no reason to rush through the process.
 
 # The modifications on my printer that affect the configurations are as follows:
