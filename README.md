@@ -6,9 +6,6 @@
   - Direct drive: Orbiter v2 extruder & filament sensor
     - Utilizes a custom hotend shroud that improves cooling with 2 5015 blower fans. The shroud also allows for the mounting of the extuder and an accelerometer for Klipper input shaping.
   - LEDs and webcam
-    - I have a webcam mounted to the gantry with a 3D printer arm so that it goes up while printing. To improve recording and viewing quality, I have added neopixel LEDs to the top of the printer frame and a few on the webcam arm.
+    - I have a webcam mounted to the gantry with a 3D printer arm so that it goes up while printing. To improve recording and viewing quality, I have added neopixel LEDs to the top of the printer frame and a few on the webcam arm. 
 
-# klipper-backup 💾 
-Klipper backup script for manual or automated GitHub backups 
-
-This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
+_This backup is provided by_ [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
